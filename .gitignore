@@ -9,6 +9,9 @@
 /coverage
 
 # next.js
+/.idea/
+
+# next.js
 /.next/
 /out/
 
